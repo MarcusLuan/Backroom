@@ -1,0 +1,17 @@
+#leitura{
+    background-color: rgb(216, 213, 213);
+    border: 2px solid rgb(180, 180, 180);border-radius: 5px;
+    width: 500px;
+}
+#resposta{
+    background-color: rgb(240, 240, 240);
+    border: 2px solid rgb(0, 0, 0);border-radius: 5px;
+    width: 500px;
+}
+html{
+    background-color: hsl(0, 0%, 100%);
+}
+img{
+    border: 2px solid rgb(0, 0, 0);border-radius: 5px;
+    margin: auto;display: block;
+}

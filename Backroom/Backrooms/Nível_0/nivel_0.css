@@ -1,0 +1,20 @@
+html{
+    background-color: rgb(204, 197, 96);
+}
+#leitura{
+    border: 2px solid black;border-radius: 5px;
+    background-color: rgb(236, 232, 166);
+    width: 500px;
+}
+img{
+    border: 2px solid rgb(255, 255, 255);border-radius: 5px;
+    margin: auto;display: block;
+}
+#resposta{
+    border: 2px solid rgb(32, 30, 23);border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+}
+button{
+    margin-bottom: 5px;display: block;margin-left: 10px;
+}
